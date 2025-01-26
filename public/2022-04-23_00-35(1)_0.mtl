@@ -1,0 +1,12 @@
+newmtl TerrainWithoutMap
+Kd 0.5202953 0.5659999 0.3831819
+newmtl WorkTable
+Kd 0.937255 0.882353 0.8196079
+newmtl Color_White
+Kd 0.9433962 0.9433962 0.9433962
+newmtl Color_PropCyan
+Kd 0.3254901 0.8784314 0.8078431
+newmtl Color_PropWhite
+Kd 1 0.9411765 0.8784314
+newmtl Color_Cyan
+Kd 0.5019608 0.6274511 0.827451
